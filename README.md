@@ -1,8 +1,8 @@
-# The Forgotten Scientist: Interactive Text-Based Adventure Game Prompt
+# The Forgotten: Interactive Text-Based Adventure Game Prompt
 
 ## Overview
 
-**The Forgotten Scientist** is an interactive, text-based adventure game prompt designed for Large Language Models (LLMs). The story follows a scientist who has lost their memory and is trapped in a wrecked laboratory. The player’s goal is to recover their memory and escape the laboratory, while making choices that shape their journey, uncover their past, and face moral dilemmas. This prompt is designed to track the player's decisions and psychological state, making the game feel personal and unique for each player.
+**The Forgotten** is an interactive, text-based adventure game prompt designed for Large Language Models (LLMs). The story follows a scientist who has lost their memory and is trapped in a wrecked laboratory. The player’s goal is to recover their memory and escape the laboratory, while making choices that shape their journey, uncover their past, and face moral dilemmas. This prompt is designed to track the player's decisions and psychological state, making the game feel personal and unique for each player.
 
 ## Key Features
 
@@ -16,7 +16,7 @@
 
 ## Example Story Prompt
 
-**Chapter 1: The Forgotten Scientist**
+**Chapter 1: The Forgotten**
 
 You wake up on the cold floor of a dim lab. The room is filled with broken equipment and dust, and a strange emptiness fills your mind. You don’t know who you are or how you ended up here. A desk nearby holds open notebooks filled with strange formulas and notes.
 
